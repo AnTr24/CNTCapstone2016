@@ -1,0 +1,30 @@
+﻿@import url(//fonts.googleapis.com/css?family=Comfortaa|Raleway|Open+Sans:600|Ranchers&effect=3d);
+
+body, input {
+  font-family: Comfortaa, Verdana, sans-serif;
+  font-size: large;
+}
+
+h1 {
+  font-family: Ranchers, cursive;
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+.container-fluid {
+  background-color: lightgray;
+}
+
+.footer {
+  margin-top: 10px;
+}
+
+.row {
+  margin-top: 5px;
+}
+
+h1 {
+  font-family: Ranchers, cursive;
+}
